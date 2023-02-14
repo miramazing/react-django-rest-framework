@@ -11,6 +11,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 Lib/site-packages/*
+*secrets.json
 
 ### react ###
 .DS_*
